@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    align-items: center;
+}
+input{
+    width: 85%;
+    height: 33px;
+    padding: 0 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: red;
+    border: 1px solid #5e5757;
+    border-radius: 3px;
+}
+button{
+    height: 35px;
+    width: 35px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.paragraph-styling{
+    padding: 0 1rem;
+    color: green;
+    font-weight: 600;
+    cursor: pointer;   
+}
+.paragraph-output{
+    color: red;
+}
